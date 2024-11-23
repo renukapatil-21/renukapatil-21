@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Renuka Patil
 - 👀 I’m interested in bulding websites, software.
-- 🌱 I’m currently working as a Associate Software Engineer in MINDBODY, Pune.
+- 🌱 I’m currently working as a Associate Software Engineer in ESW, Pune.
 - 📫 to reach me, just drop a message on renukapatil210@gmail.com
 
 <!---
